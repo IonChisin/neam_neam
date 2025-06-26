@@ -1,0 +1,618 @@
+[
+  {
+    "id": 1,
+    "slug": "sashimi-losos",
+    "name": "Сашими Лосось",
+    "categoryId": 1,
+    "price": 95,
+    "priceSale": null,
+    "discription": "Лосось, чука, долька лимона, васаби, имбирь, соевый соус.",
+    "options": {
+      "pcs": "Порция",
+      "gram": 100
+    },
+    "image": "sashimi-losos.jpg"
+  },
+  {
+    "id": 2,
+    "slug": "sashimi-tunec",
+    "name": "Сашими Тунец",
+    "categoryId": 1,
+    "price": 95,
+    "priceSale": null,
+    "discription": "Тунец, долька лимона, васаби, имбирь, соевый соус.",
+    "options": {
+      "pcs": "Порция",
+      "gram": 100
+    },
+    "image": "sashimi-tunec.jpg"
+  },
+  {
+    "id": 3,
+    "slug": "angry-birds",
+    "name": "Angry Birds",
+    "categoryId": 3,
+    "price": 90,
+    "priceSale": null,
+    "discription": "Состав: Тесто, Соус красный, Сыр Моцарела, Сыр Филадельфия, Колбаса Невская, Маслины, Сыр Чедер (1 шт.), Пармезан, Перец Сладкий, мука на подпыл.",
+    "options": {
+      "pcs": "1 шт",
+      "gram": 570
+    },
+    "image": "pizza-angry.jpg"
+  },
+  {
+    "id": 4,
+    "slug": "burger-bbq",
+    "name": "Бургер BBQ",
+    "categoryId": 4,
+    "price": 85,
+    "priceSale": null,
+    "discription": "Булка для бургера, Говяжья Котлета 150 г., Лист Салата, Сыр Чедер (1 пластинка), Соус Барбекю, Помидор, Огурец маринованый, Лук маринованый, масло растительное.",
+    "options": {
+      "pcs": "1 шт",
+      "gram": null
+    },
+    "image": "burger-bbq.jpg"
+  },
+  {
+    "id": 5,
+    "slug": "grusha-dorblu",
+    "name": "С грушей и сыром дорблю",
+    "categoryId": 3,
+    "price": 100,
+    "priceSale": null,
+    "discription": "Состав: Тесто, Мука, Соус белый, Сыр Мацарелла, Сыр Дор-Блю, Груша.",
+    "options": {
+      "pcs": "1 шт",
+      "gram": 540
+    },
+    "image": "pizza-grusha.jpg"
+  },
+  {
+    "id": 6,
+    "slug": "sushi-krevetka",
+    "name": "Суши с Креветкой",
+    "categoryId": 1,
+    "price": 50,
+    "priceSale": null,
+    "discription": "Рис, креветка.",
+    "options": {
+      "pcs": 2,
+      "gram": 80
+    },
+    "image": "sushi-krevetka.jpg"
+  },
+  {
+    "id": 7,
+    "slug": "diablo",
+    "name": "Дьябло",
+    "categoryId": 3,
+    "price": 110,
+    "priceSale": null,
+    "discription": "Состав: Соус красный, Кабаносси, Перец болгарский, Сыр Мацарелла, Оливки, Бекон, Маслины, Масло чесночное.",
+    "options": {
+      "pcs": "1 шт",
+      "gram": 580
+    },
+    "image": "pizza-diablo.jpg"
+  },
+  {
+    "id": 8,
+    "slug": "chicken-burger",
+    "name": "Бургер Чикен",
+    "categoryId": 4,
+    "price": 70,
+    "priceSale": null,
+    "discription": "Курица, сыр чедер, помидор, огурец маринованный, лук репчатый, латук, соус для бургера, булочка.",
+    "options": {
+      "pcs": "1 шт",
+      "gram": null
+    },
+    "image": "chicken-burger.jpg"
+  },
+  {
+    "id": 9,
+    "slug": "colorado",
+    "name": "Колорадо",
+    "categoryId": 3,
+    "price": 100,
+    "priceSale": null,
+    "discription": "Состав: мука, соус красный, сыр моцарелла, шампиньоны, филе-копченое, помидоры, перец болгарский, маслины.",
+    "options": {
+      "pcs": "1 шт",
+      "gram": 630
+    },
+    "image": "colorada.jpg"
+  },
+  {
+    "id": 10,
+    "slug": "lapsha-po-taiski-s-chicken",
+    "name": "Лапша по тайски с курицей",
+    "categoryId": 2,
+    "price": 75,
+    "priceSale": null,
+    "discription": "Удон, Филе куриное, Перец болгарский, Грибы шампиньоны , Лук репчатый , Морковь, Капуста пекинская, Стебель сельдерея, Чеснок, Корень имбиря, Масло растительное, Лук зеленый, Имбирь маринованный , Кунжут, Соус устричный, Соус соевый , Соус кисло-сладкий, Яйцо куриное(пашот).",
+    "options": {
+      "pcs": "1 шт",
+      "gram": 475
+    },
+    "image": "po-taiski-s-chicken.jpg"
+  },
+  {
+    "id": 11,
+    "slug": "sushi-losos",
+    "name": "Суши с Лососем",
+    "categoryId": 1,
+    "price": 50,
+    "priceSale": null,
+    "discription": "Рис, лосось.",
+    "options": {
+      "pcs": 2,
+      "gram": 100
+    },
+    "image": "sushi-losos.jpg"
+  },
+  {
+    "id": 12,
+    "slug": "wok-rice-moreproduct",
+    "name": "Рис с Морепродуктами",
+    "categoryId": 2,
+    "price": 90,
+    "priceSale": null,
+    "discription": "Рис, креветка, мясо мидий, кальмар, чеснок, соус терияки, соус унаги, кунжут белый.",
+    "options": {
+      "pcs": "1 шт",
+      "gram": 300
+    },
+    "image": "wok-rice-moreproduct.jpg"
+  },
+  {
+    "id": 13,
+    "slug": "cezar-krevetka",
+    "name": "Цезарь с креветкой",
+    "categoryId": 3,
+    "price": 110,
+    "priceSale": null,
+    "discription": "Состав: Тесто, Мука, Соус Цезарь, Сыр моцарелла, Сыр пармезан, Салат латук, Креветка очищенная, Помидоры.",
+    "options": {
+      "pcs": "1 шт",
+      "gram": 670
+    },
+    "image": "pizza-chezar-krevetka.jpg"
+  },
+  {
+    "id": 14,
+    "slug": "sushi-ugor",
+    "name": "Суши с Угрем",
+    "categoryId": 1,
+    "price": 75,
+    "priceSale": null,
+    "discription": "Рис, угорь, нори, кунжут.",
+    "options": {
+      "pcs": 2,
+      "gram": 100
+    },
+    "image": "sushi-ugor.jpg"
+  },
+  {
+    "id": 15,
+    "slug": "sushi-burger-losos",
+    "name": "Суши Бургер с Лососем",
+    "categoryId": 4,
+    "price": 85,
+    "priceSale": null,
+    "discription": "Нори, Рис, Сыр Филадельфия, Латук, Лосось, Авокадо, Соус унаги, Кунжут белый.",
+    "options": {
+      "pcs": "1 шт",
+      "gram": 150
+    },
+    "image": "sushi-burger-losos.jpg"
+  },
+  {
+    "id": 16,
+    "slug": "sushi-set",
+    "name": "Суши Сет",
+    "categoryId": 1,
+    "price": 100,
+    "priceSale": null,
+    "discription": "Суши с креветкой, суши с лососем, суши с тунцом, суши с угрем.",
+    "options": {
+      "pcs": 4,
+      "gram": 200
+    },
+    "image": "sushi-set.jpg"
+  },
+  {
+    "id": 17,
+    "slug": "combo-vremya-obeda",
+    "name": "Комбо Время Обеда",
+    "categoryId": 8,
+    "price": 405,
+    "priceSale": 350,
+    "discription": "Пицца 4 сыра, эби манго темпура, ойси ролл, ролл Аригатто.",
+    "options": {
+      "pcs": "4 шт",
+      "gram": 1280
+    },
+    "image": "combo-vremya-obeda.jpg"
+  },
+  {
+    "id": 18,
+    "slug": "combo-burgers",
+    "name": "Комбо Бургеры",
+    "categoryId": 8,
+    "price": 330,
+    "priceSale": 280,
+    "discription": "Бекон бургер, гавайский бургер, гамбургер, чикен бургер.",
+    "options": {
+      "pcs": " 4 шт",
+      "gram": 1340
+    },
+    "image": "combo-burgers.jpg"
+  },
+  {
+    "id": 19,
+    "slug": "combo-djeltelmen",
+    "name": "Комбо Джентльмен",
+    "categoryId": 8,
+    "price": 320,
+    "priceSale": 289,
+    "discription": "Гренки, колбаски охотничьи, креветки в панко 10шт., картофель фри, пицца 4 мяса.",
+    "options": {
+      "pcs": "5 шт",
+      "gram": 1000
+    },
+    "image": "combo-djeltelmen.jpg"
+  },
+  {
+    "id": 20,
+    "slug": "combo-lux",
+    "name": "Комбо Люкс",
+    "categoryId": 8,
+    "price": 620,
+    "priceSale": null,
+    "discription": "Пицца суприм-барбекю, пицца эль-пасо, филадельфия с креветкой, радуга, лава с креветкой, нагетсы 2 порции.",
+    "options": {
+      "pcs": "6 шт",
+      "gram": 2470
+    },
+    "image": "combo-lux.jpg"
+  },
+  {
+    "id": 21,
+    "slug": "combo-solo",
+    "name": "Комбо Соло",
+    "categoryId": 8,
+    "price": 340,
+    "priceSale": 300,
+    "discription": "Пицца венская, ролл Хокайдо, Ролл Харуто, Coca-cola 0,75.",
+    "options": {
+      "pcs": "4 шт",
+      "gram": 1110
+    },
+    "image": "combo-solo.jpg"
+  },
+  {
+    "id": 22,
+    "slug": "combo-chicken",
+    "name": "Комбо Чикен",
+    "categoryId": 8,
+    "price": 285,
+    "priceSale": 220,
+    "discription": "Пицца жульен, пицца 4 мяса, чикен бургер, гамбургер.",
+    "options": {
+      "pcs": "4 шт",
+      "gram": 1860
+    },
+    "image": "combo-chicken.jpg"
+  },
+  {
+    "id": 23,
+    "slug": "wok-rice-moreproduct",
+    "name": "Рис с Морепродуктами",
+    "categoryId": 2,
+    "price": 90,
+    "priceSale": null,
+    "discription": "Рис, креветка, мясо мидий, кальмар, чеснок, соус терияки, соус унаги, кунжут белый.",
+    "options": {
+      "pcs": "1 шт",
+      "gram": 300
+    },
+    "image": "wok-rice-moreproduct (1).jpg"
+  },
+  {
+    "id": 24,
+    "slug": "lapsha-po-taiski-s-moreproductami",
+    "name": "Лапша по тайски с морепродуктами",
+    "categoryId": 2,
+    "price": 95,
+    "priceSale": 85,
+    "discription": "Удон, Креветка отварная, Кольца кальмара п/ф,Мидии п/ф, Чеснок,Корень имбиря, Масло растительное, Сливки, Икра Тобика, Соус соевый ,Соус устричный.",
+    "options": {
+      "pcs": "1 шт",
+      "gram": 450
+    },
+    "image": "po-taiski-s-moreproductami.jpg"
+  },
+  {
+    "id": 25,
+    "slug": "wok-rice-ovoshi",
+    "name": "Рис с Овощами",
+    "categoryId": 2,
+    "price": 45,
+    "priceSale": null,
+    "discription": "Рис, шампиньоны, брокколи, капуста пекинская, фасоль стручковая, лук репчатый, морковь, перец болгарский, цукини.",
+    "options": {
+      "pcs": "1 шт",
+      "gram": 370
+    },
+    "image": "wok-rice-ovoshi.jpg"
+  },
+  {
+    "id": 26,
+    "slug": "wok-telyatina",
+    "name": "Телятина по Тайски",
+    "categoryId": 2,
+    "price": 120,
+    "priceSale": null,
+    "discription": "Говяжья вырезка, болгарский перец, красный лук, помидор, чеснок, имбирь, перец чили, капуста пекинская, кунжут.",
+    "options": {
+      "pcs": "1 шт",
+      "gram": 320
+    },
+    "image": "telyatina-taisky.jpg"
+  },
+  {
+    "id": 27,
+    "slug": "wok-funchesa-moreproduct",
+    "name": "Стеклянная Лапша с Морепродуктами",
+    "categoryId": 2,
+    "price": 100,
+    "priceSale": 85,
+    "discription": "Лапша, креветки, мясо мидий, кальмар, чеснок, вино белое, сливки суповые, икра масаго красная, соевый соус.",
+    "options": {
+      "pcs": "1 шт",
+      "gram": 300
+    },
+    "image": "wok-moreprodukty-funchesa.jpg"
+  },
+  {
+    "id": 28,
+    "slug": "panakota/",
+    "name": "Панакота",
+    "categoryId": 7,
+    "price": 25,
+    "priceSale": null,
+    "discription": "Панакота – 150гр.",
+    "options": {
+      "pcs": "1 шт",
+      "gram": 150
+    },
+    "image": "Panakota-29p150gr-768x768.jpg"
+  },
+  {
+    "id": 29,
+    "slug": "cheesecake",
+    "name": "Чизкейк",
+    "categoryId": 7,
+    "price": 45,
+    "priceSale": 38,
+    "discription": "Чизкейк – 150гр.",
+    "options": {
+      "pcs": "1 шт",
+      "gram": 150
+    },
+    "image": "chizcake45p150gr-768x768.jpg"
+  },
+  {
+    "id": 30,
+    "slug": "poke-s-krevetkoy",
+    "name": "Поке с Креветкой",
+    "categoryId": 5,
+    "price": 119,
+    "priceSale": null,
+    "discription": "Креветка в панко, Рис для ролл, Брокколи , Манго , Авокадо, Помидор , Соус остро-кисло сладкий, Кунжут, Нори, Масло кунжутное, Долька лимона.",
+    "options": {
+      "pcs": "1 шт",
+      "gram": 300
+    },
+    "image": "poke-s-krevetkami.jpg"
+  },
+  {
+    "id": 31,
+    "slug": "poke-chicken",
+    "name": "Поке с Курицей",
+    "categoryId": 5,
+    "price": 80,
+    "priceSale": 65,
+    "discription": "Филе куринное, Рис для ролл, Яйцо (омлетная каша), Чука , Авокадо, Помидор , Лук зеленый , Нори, Масло кунжутное, Огурец.",
+    "options": {
+      "pcs": "1 шт",
+      "gram": 300
+    },
+    "image": "poke-s-chicken.jpg"
+  },
+  {
+    "id": 32,
+    "slug": "salat-pechen-dorblu",
+    "name": "Салат с печенью и сыром дорблю",
+    "categoryId": 5,
+    "price": 79,
+    "priceSale": null,
+    "discription": "Груша, Морговь, Латук, Печень куриная зачищенная, Сахар, Масло сливочное, Масло растительное, соль, Сыр дорблю, Орех грецкий.",
+    "options": {
+      "pcs": "1 шт",
+      "gram": 300
+    },
+    "image": "salad-s-pechen.jpg"
+  },
+  {
+    "id": 33,
+    "slug": "salat-salmon-chuka/",
+    "name": "Салат Сальмон Чука",
+    "categoryId": 5,
+    "price": 85,
+    "priceSale": null,
+    "discription": "Лосось, чука, лимон, кунжут.",
+    "options": {
+      "pcs": "1 шт",
+      "gram": 170
+    },
+    "image": "salmon-chuka.jpg"
+  },
+  {
+    "id": 34,
+    "slug": "salat-hot-telyatina",
+    "name": "Теплый Салат с Телятиной",
+    "categoryId": 5,
+    "price": 135,
+    "priceSale": 120,
+    "discription": "Говяжья вырезка, терияки, лук, морковь, цукини, болгарский перец, фасоль, лист салата, соус табаско, соус соевый, кунжут.",
+    "options": {
+      "pcs": "1 шт",
+      "gram": 250
+    },
+    "image": "salat-telyatina-768x576.jpg"
+  },
+  {
+    "id": 35,
+    "slug": "salat-chezar-krevetka",
+    "name": "Салат Цезарь с Креветкой",
+    "categoryId": 5,
+    "price": 89,
+    "priceSale": null,
+    "discription": "Латук, Помидор, Креветка, Соус Цезарь, Масло растительное, Сыр пармезан, Хала (плетенка).",
+    "options": {
+      "pcs": "1 шт",
+      "gram": 300
+    },
+    "image": "salad-chezar-krevetka.jpg"
+  },
+  {
+    "id": 36,
+    "slug": "salad-chezar-chicken",
+    "name": "Салат Цезарь с Курицей",
+    "categoryId": 5,
+    "price": 65,
+    "priceSale": 55,
+    "discription": "Латук, помидор, куриное филе, соус цезарь, сыр пармезан, хала.",
+    "options": {
+      "pcs": "1 шт",
+      "gram": 270
+    },
+    "image": "chezar-chicken-768x576.jpg"
+  },
+  {
+    "id": 37,
+    "slug": "coca-cola-napitok-coca-cola-gazirovannyy-pet-1-0l",
+    "name": "Газированный напиток Coca-Cola (0,75л.)",
+    "categoryId": 6,
+    "price": 25,
+    "priceSale": null,
+    "discription": "Газированная вода Coca-Cola обьемом 0,75 литра.",
+    "options": {
+      "pcs": "1 шт",
+      "gram": null
+    },
+    "image": "napitok-coca-cola-1l.jpg"
+  },
+  {
+    "id": 38,
+    "slug": "coca-cola-napitok-coca-cola-gazirovannyy-pet-0-5l",
+    "name": "Газированный напиток Coca-Cola (0.5л.)",
+    "categoryId": 6,
+    "price": 18,
+    "priceSale": null,
+    "discription": "Газированная вода Coca-Cola обьемом 0.5 литра.",
+    "options": {
+      "pcs": "1 шт",
+      "gram": null
+    },
+    "image": "napitok-coca-cola-0-5l-500x500-1.jpg"
+  },
+  {
+    "id": 39,
+    "slug": "fanta-gazirovannyy-pet-0-7l",
+    "name": "Газированный напиток Fanta (0.75л.)",
+    "categoryId": 6,
+    "price": 28,
+    "priceSale": null,
+    "discription": "Газированный напиток Fanta (0.75л.)",
+    "options": {
+      "pcs": "1 шт",
+      "gram": null
+    },
+    "image": "napitok-fanta-075.jpg"
+  },
+  {
+    "id": 40,
+    "slug": "sprite-napitok-sprite-gazirovannyy-pet-0-7l",
+    "name": "Газированный напиток Sprite (0.75л.)",
+    "categoryId": 6,
+    "price": 27,
+    "priceSale": null,
+    "discription": "Газированная вода Sprite объемом в 0,75 литра.",
+    "options": {
+      "pcs": "1 шт",
+      "gram": null
+    },
+    "image": "napitok-sprite-1l.jpg"
+  },
+  {
+    "id": 41,
+    "slug": "mineralnaya-voda-morshinskaya-slab-gaz-0-5l",
+    "name": "Минеральная вода Моршинская, слаб./газ., (0.5л.)",
+    "categoryId": 6,
+    "price": 11,
+    "priceSale": null,
+    "discription": "Природная минеральная вода Моршинская слаб./газ., обьемом 0,5 литра.",
+    "options": {
+      "pcs": "1 шт",
+      "gram": null
+    },
+    "image": "voda-moshinskaya-slabogazirovannaya.jpg"
+  },
+  {
+    "id": 42,
+    "slug": "mineralnaya-voda-morshinskaya-n-gaz-0-5l",
+    "name": "Минеральная вода Моршинская, негазированная (0.5л.)",
+    "categoryId": 6,
+    "price": 11,
+    "priceSale": null,
+    "discription": "Природная минеральная вода Моршинская негазированная обьемом 0,5 литра.",
+    "options": {
+      "pcs": "1 шт",
+      "gram": null
+    },
+    "image": "voda-moshinskaya-bezgaza.jpg"
+  },
+  {
+    "id": 43,
+    "slug": "ice-tea-biola-lemon",
+    "name": "Напиток безалкогольный Ice Tea Biola Лимон (0,5л.)",
+    "categoryId": 6,
+    "price": 20,
+    "priceSale": null,
+    "discription": "Черный чай Ice Tea Biola (0,5 литра) со вкусом лимона.",
+    "options": {
+      "pcs": "1 шт",
+      "gram": null
+    },
+    "image": "napitok-ice-tea-biola-limon.jpg"
+  },
+  {
+    "id": 44,
+    "slug": "ice-tea-biola-malina",
+    "name": "Напиток безалкогольный Ice Tea Biola Малина (0,5л.)",
+    "categoryId": 6,
+    "price": 20,
+    "priceSale": null,
+    "discription": "Черный чай Ice Tea Biola (0,5 литра) со вкусом малины.",
+    "options": {
+      "pcs": "1 шт",
+      "gram": null
+    },
+    "image": "napitok-ice-tea-biola-malina.jpg"
+  }
+]

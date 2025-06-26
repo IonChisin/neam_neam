@@ -1,0 +1,100 @@
+[
+  {
+    "id":4,
+    "slug":"burger-bbq",
+    "name":"Бургер BBQ",
+    "categoryId":4 ,
+    "price":85 ,
+    "priceSale":null,
+    "discription":"Булка для бургера, Говяжья Котлета 150 г., Лист Салата, Сыр Чедер (1 пластинка), Соус Барбекю, Помидор, Огурец маринованый, Лук маринованый, масло растительное.",
+    "options":{
+      "pcs":"1 шт",
+      "gram":null
+    },
+    "image":"burger-bbq.jpg"
+      },
+  {
+    "id":5,
+    "slug":"grusha-dorblu",
+    "name":"С грушей и сыром дорблю",
+    "categoryId": 3,
+    "price":100 ,
+    "priceSale":null,
+    "discription":"Состав: Тесто, Мука, Соус белый, Сыр Мацарелла, Сыр Дор-Блю, Груша.",
+    "options":{
+      "pcs":"1 шт",
+      "gram":540
+    },
+    "image":"pizza-grusha.jpg"
+      },
+  {
+    "id":6,
+    "slug":"sushi-krevetka",
+    "name":"Суши с Креветкой",
+    "categoryId":1 ,
+    "price":50 ,
+    "priceSale":null,
+    "discription":"Рис, креветка.",
+    "options":{
+      "pcs":2,
+      "gram":80
+    },
+    "image":"sushi-krevetka.jpg"
+      },
+  {
+    "id":7,
+    "slug":"diablo",
+    "name":"Дьябло",
+    "categoryId": 3,
+    "price": 110,
+    "priceSale":null,
+    "discription":"Состав: Соус красный, Кабаносси, Перец болгарский, Сыр Мацарелла, Оливки, Бекон, Маслины, Масло чесночное.",
+    "options":{
+      "pcs":"1 шт",
+      "gram":580
+    },
+    "image":"pizza-diablo.jpg"
+      },
+  {
+    "id":8,
+    "slug":"chicken-burger",
+    "name":"Бургер Чикен",
+    "categoryId":4 ,
+    "price":70 ,
+    "priceSale":null,
+    "discription":"Курица, сыр чедер, помидор, огурец маринованный, лук репчатый, латук, соус для бургера, булочка.",
+    "options":{
+      "pcs":"1 шт",
+      "gram":null
+    },
+    "image":"chicken-burger.jpg"
+      },
+  {
+    "id":9,
+    "slug":"colorado",
+    "name":"Колорадо",
+    "categoryId":3 ,
+    "price":100 ,
+    "priceSale":null,
+    "discription":"Состав: мука, соус красный, сыр моцарелла, шампиньоны, филе-копченое, помидоры, перец болгарский, маслины.",
+    "options":{
+      "pcs":"1 шт",
+      "gram":630
+    },
+    "image":"colorada.jpg"
+      },
+  {
+    "id":10,
+    "slug":"lapsha-po-taiski-s-chicken",
+    "name":"Лапша по тайски с курицей",
+    "categoryId": 2,
+    "price": 75,
+    "priceSale":null,
+    "discription":"Удон, Филе куриное, Перец болгарский, Грибы шампиньоны , Лук репчатый , Морковь, Капуста пекинская, Стебель сельдерея, Чеснок, Корень имбиря, Масло растительное, Лук зеленый, Имбирь маринованный , Кунжут, Соус устричный, Соус соевый , Соус кисло-сладкий, Яйцо куриное(пашот).",
+    "options":{
+      "pcs":"1 шт",
+      "gram":475
+    },
+    "image":"po-taiski-s-chicken.jpg"
+      }
+]
